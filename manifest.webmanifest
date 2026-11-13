@@ -1,0 +1,17 @@
+{
+  "name": "SkyHunt — 비행기 vs 미사일",
+  "short_name": "SkyHunt",
+  "description": "느리지만 잘 도는 비행기 vs 빠르지만 잘 못 도는 미사일, 1:1 비대칭 추격전",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#6fbfee",
+  "theme_color": "#1e5bd8",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

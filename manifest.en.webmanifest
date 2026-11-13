@@ -1,0 +1,17 @@
+{
+  "name": "SkyHunt — Plane vs Missile",
+  "short_name": "SkyHunt",
+  "description": "A slow but agile plane vs a fast but clumsy missile: a 1-on-1 asymmetric chase",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#6fbfee",
+  "theme_color": "#1e5bd8",
+  "lang": "en",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "SkyHunt — 飛行機 vs ミサイル",
+  "short_name": "SkyHunt",
+  "description": "遅いけど小回りが利く飛行機 vs 速いけど曲がりにくいミサイル、1対1の非対称追撃戦",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#6fbfee",
+  "theme_color": "#1e5bd8",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
